@@ -8,9 +8,9 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <Icon name="Music" className="text-primary" size={28} />
-              <span className="text-xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                Dance Studio
+              <Icon name="Sparkles" className="text-primary" size={28} />
+              <span className="text-xl font-bold bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
+                DanceFlow
               </span>
             </div>
             <p className="text-muted-foreground">

@@ -21,9 +21,9 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center gap-2 text-2xl font-bold">
-            <Icon name="Music" className="text-primary" size={32} />
-            <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              Dance Studio
+            <Icon name="Sparkles" className="text-primary" size={32} />
+            <span className="bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
+              DanceFlow
             </span>
           </Link>
 
