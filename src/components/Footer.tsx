@@ -91,7 +91,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-border mt-8 pt-8 text-center text-muted-foreground">
-          <p>© 2025 Dance Studio. Все права защищены.</p>
+          <p>© 2025 DanceFlow. Все права защищены.</p>
         </div>
       </div>
     </footer>
